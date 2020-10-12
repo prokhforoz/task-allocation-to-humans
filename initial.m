@@ -15,7 +15,7 @@ T=5;
 %Human operators performance parameters:
 
 for m=1:M
-b(m,:)=abs(normrnd(7,3,N,1));
+b(m,:)=abs(normrnd(8,3,N,1));
 d(m,:)=abs(normrnd(2,1,N,1));
 end
 
